@@ -1,0 +1,30 @@
+C:\Users\Rubenel\source\repos\Buffon's Needle\bin\Debug\Buffon's Needle.exe.config
+C:\Users\Rubenel\source\repos\Buffon's Needle\bin\Debug\Buffon's Needle.exe
+C:\Users\Rubenel\source\repos\Buffon's Needle\bin\Debug\Buffon's Needle.pdb
+C:\Users\Rubenel\source\repos\Buffon's Needle\obj\Debug\Buffon's Needle.csprojAssemblyReference.cache
+C:\Users\Rubenel\source\repos\Buffon's Needle\obj\Debug\Buffon_s_Needle.Form1.resources
+C:\Users\Rubenel\source\repos\Buffon's Needle\obj\Debug\Buffon_s_Needle.Properties.Resources.resources
+C:\Users\Rubenel\source\repos\Buffon's Needle\obj\Debug\Buffon's Needle.csproj.GenerateResource.cache
+C:\Users\Rubenel\source\repos\Buffon's Needle\obj\Debug\Buffon's Needle.exe
+C:\Users\Rubenel\source\repos\Buffon's Needle\obj\Debug\Buffon's Needle.pdb
+C:\Users\Rubenel\Desktop\Buffon's Needle\bin\Debug\Buffon's Needle.exe.config
+C:\Users\Rubenel\Desktop\Buffon's Needle\bin\Debug\Buffon's Needle.exe
+C:\Users\Rubenel\Desktop\Buffon's Needle\bin\Debug\Buffon's Needle.pdb
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon_s_Needle.Form1.resources
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon_s_Needle.Properties.Resources.resources
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon's Needle.csproj.GenerateResource.cache
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon's Needle.exe
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon's Needle.pdb
+C:\Users\pui\OneDrive\Buffon's Needle\bin\Debug\Buffon's Needle.exe.config
+C:\Users\pui\OneDrive\Buffon's Needle\bin\Debug\Buffon's Needle.exe
+C:\Users\pui\OneDrive\Buffon's Needle\bin\Debug\Buffon's Needle.pdb
+C:\Users\pui\OneDrive\Buffon's Needle\obj\Debug\Buffon's Needle.csprojAssemblyReference.cache
+C:\Users\pui\OneDrive\Buffon's Needle\obj\Debug\Buffon_s_Needle.Form1.resources
+C:\Users\pui\OneDrive\Buffon's Needle\obj\Debug\Buffon_s_Needle.Properties.Resources.resources
+C:\Users\pui\OneDrive\Buffon's Needle\obj\Debug\Buffon's Needle.csproj.GenerateResource.cache
+C:\Users\pui\OneDrive\Buffon's Needle\obj\Debug\Buffon's Needle.csproj.CoreCompileInputs.cache
+C:\Users\pui\OneDrive\Buffon's Needle\obj\Debug\Buffon's Needle.exe
+C:\Users\pui\OneDrive\Buffon's Needle\obj\Debug\Buffon's Needle.pdb
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon's Needle.csproj.AssemblyReference.cache
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon's Needle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rubenel\Desktop\Buffon's Needle\obj\Debug\Buffon's Needle.csproj.CoreCompileInputs.cache
